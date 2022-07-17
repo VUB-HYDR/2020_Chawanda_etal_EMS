@@ -11,7 +11,7 @@ Find the SWAT+ AW [here](https://github.com/VUB-HYDR/SWATPlus-AW)
 ## For users
 This repository includes the scripts that automatically downloads SRTM data for Blue Nile area and processes it for use with [SWAT+ AW](https://github.com/VUB-HYDR/SWATPlus-AW)
 It also has script to process ESA land use data downloaded from [http://maps.elie.ucl.ac.be/CCI/viewer/download.php](http://maps.elie.ucl.ac.be/CCI/viewer/download.php) for the Blue Nile area. In This case, the 2009 land use map (ESACCI-LC-L4-LCCS-Map-300m-P1Y-2009-v2.0.7.tif) was used.
-There is also a script that processes the FAO soil data downloaded from [FAO's website](http://www.fao.org/geonetwork/srv/en/resources.get?id=14116&fname=DSMW.zip&access=private).
+There is also a script that processes the FAO soil data downloaded from [FAO's website](https://storage.googleapis.com/fao-maps-catalog-data/uuid/446ed430-8383-11db-b9b2-000d939bc5d8/resources/DSMW.zip).
 
 The Prepared dataset is also available at [Hydroshare](https://doi.org/10.4211/hs.0890b3a954bf423db7d5b08f122b5436).
 
